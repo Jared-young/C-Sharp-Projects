@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\obj\Debug\Income Comparison Program.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\bin\Debug\Income Comparison Program.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\bin\Debug\Income Comparison Program.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\bin\Debug\Income Comparison Program.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\obj\Debug\Income Comparison Program.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\obj\Debug\Income Comparison Program.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Income Comparison Program\Income Comparison Program\obj\Debug\Income Comparison Program.pdb
