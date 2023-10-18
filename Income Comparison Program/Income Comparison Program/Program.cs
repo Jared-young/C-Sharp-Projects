@@ -30,17 +30,17 @@ class Program
         Console.WriteLine($"\nDoes Person 1 make more money than Person 2? {person1EarnsMore}");
         Console.ReadLine();
     }
-    int GetHourlyRate(string prompt)
+    static int GetHourlyRate(string prompt)
     {
         Console.Write($"{prompt}: ");
         return GetInputFromUser();
     }
-    int GetHoursWorked(string prompt)
+    static int GetHoursWorked(string prompt)
     {
         Console.Write($"{prompt}: ");
         return GetInputFromUser();
     }
-    int GetInputFromUser()
+    static int GetInputFromUser()
     {
         int input;
         while (!int.TryParse(Console.ReadLine(), out input))
@@ -49,7 +49,7 @@ class Program
         }
         return input;
     }
-    int CalculateAnnualSalary(int hourlyRate, int hoursWorkedPerWeek)
+    static int CalculateAnnualSalary(int hourlyRate, int hoursWorkedPerWeek)
     {
         return hourlyRate * hoursWorkedPerWeek * 52;
     }
