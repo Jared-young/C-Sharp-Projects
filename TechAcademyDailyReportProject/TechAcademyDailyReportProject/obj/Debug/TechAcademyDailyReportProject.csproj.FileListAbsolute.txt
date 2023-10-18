@@ -1,0 +1,6 @@
+C:\Users\Jared.Young\Desktop\Basic_C#_Programs\TechAcademyDailyReportProject\TechAcademyDailyReportProject\bin\Debug\TechAcademyDailyReportProject.exe.config
+C:\Users\Jared.Young\Desktop\Basic_C#_Programs\TechAcademyDailyReportProject\TechAcademyDailyReportProject\bin\Debug\TechAcademyDailyReportProject.exe
+C:\Users\Jared.Young\Desktop\Basic_C#_Programs\TechAcademyDailyReportProject\TechAcademyDailyReportProject\bin\Debug\TechAcademyDailyReportProject.pdb
+C:\Users\Jared.Young\Desktop\Basic_C#_Programs\TechAcademyDailyReportProject\TechAcademyDailyReportProject\obj\Debug\TechAcademyDailyReportProject.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Desktop\Basic_C#_Programs\TechAcademyDailyReportProject\TechAcademyDailyReportProject\obj\Debug\TechAcademyDailyReportProject.exe
+C:\Users\Jared.Young\Desktop\Basic_C#_Programs\TechAcademyDailyReportProject\TechAcademyDailyReportProject\obj\Debug\TechAcademyDailyReportProject.pdb
