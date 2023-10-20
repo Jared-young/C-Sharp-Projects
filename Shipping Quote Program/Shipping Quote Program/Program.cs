@@ -30,6 +30,7 @@ class Program
             if (dimensionsTotal > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
             }
             else
             {
