@@ -34,7 +34,7 @@ class Program
             else
             {
                 decimal quote = (width * height * length * weight) / 100;
-                Console.WriteLine($"Your shipping quote is: ${quote:C}");
+                Console.WriteLine($"Your shipping quote is: {quote:C}");
                 Console.ReadLine();
             }
         }
