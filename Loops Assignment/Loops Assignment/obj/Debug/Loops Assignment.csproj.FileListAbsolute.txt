@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\bin\Debug\Loops Assignment.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\bin\Debug\Loops Assignment.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\bin\Debug\Loops Assignment.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.pdb
