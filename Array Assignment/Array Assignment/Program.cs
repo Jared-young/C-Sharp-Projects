@@ -9,7 +9,7 @@ class Program
         int[] intArray = { 100, 200, 300, 400, 500, 600 };
         List<string> stringList = new List<string> { "One", "Two", "Three", "Four", "Five", "Six", "Seven" };
 
-        Console.WriteLine("Select a number form 1 to 5:");
+        Console.WriteLine("Select a number form 0 to 4:");
         int stringIndex = GetUserIndex();
         if (stringIndex >= 0 && stringIndex < stringArray.Length)
         {
@@ -17,10 +17,10 @@ class Program
         }
         else
         {
-            Console.WriteLine("You chose a number not between 1 and 5");
+            Console.WriteLine("You chose a number not between 0 and 4");
         }
 
-        Console.WriteLine("\nSelect a number from 1 to 6:");
+        Console.WriteLine("\nSelect a number from 0 to 5:");
         int intIndex = GetUserIndex();
         if (intIndex >= 0 && intIndex < intArray.Length)
         {
@@ -28,10 +28,10 @@ class Program
         }
         else
         {
-            Console.WriteLine("You chose a number not between 1 and 6");
+            Console.WriteLine("You chose a number not between 0 and 5");
         }
 
-        Console.WriteLine("\nSelect a number from 1 to 7:");
+        Console.WriteLine("\nSelect a number from 0 to 6:");
         int listIndex = GetUserIndex();
         if (listIndex >= 0 && listIndex < stringList.Count)
         {
@@ -40,7 +40,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("You chose a number not between 1 and 7");
+            Console.WriteLine("You chose a number not between 0 and 6");
             Console.ReadLine();
         }
     }
