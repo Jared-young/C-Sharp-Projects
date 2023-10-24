@@ -76,7 +76,7 @@ class Program
         //foreach loop search section
         List<string> groceryList2 = new List<string>
         {"Soup", "Bananas", "Onions", "Chicken Breast", "Soup", "Spaghetti", "Onions"};
-        List repeatCheck = newList();
+        List<string> repeatCheck = new List<string>();
         Console.WriteLine("Grocery List:");
 
         foreach (string GL2 in groceryList2)
@@ -89,10 +89,11 @@ class Program
             else
             {
                 Console.WriteLine($"item '{GL2}' is a new entry in the list.");
-                groceryList2.Add(GL2);
+                //groceryList2.Add(GL2);
             }
             repeatCheck.Add(GL2);
         }
+        Console.ReadLine();
     }
 }
 
