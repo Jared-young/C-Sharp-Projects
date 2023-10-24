@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe.config
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.pdb
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csprojAssemblyReference.cache
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.exe
+C:\Users\Jared.Young\source\repos\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.pdb
