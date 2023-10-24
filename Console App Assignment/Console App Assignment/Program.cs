@@ -76,10 +76,13 @@ class Program
         //foreach loop search section
         List<string> groceryList2 = new List<string>
         {"Soup", "Bananas", "Onions", "Chicken Breast", "Soup", "Spaghetti", "Onions"};
+        List repeatCheck = newList();
+        Console.WriteLine("Grocery List:");
 
         foreach (string GL2 in groceryList2)
         {
-            if(groceryList2.Contains(GL2))
+            Console.WriteLine(GL2);
+            if (repeatCheck.Contains(GL2))
             {
                 Console.WriteLine($"item has already appeared in the list");
             }
@@ -88,6 +91,7 @@ class Program
                 Console.WriteLine($"item '{GL2}' is a new entry in the list.");
                 groceryList2.Add(GL2);
             }
+            repeatCheck.Add(GL2);
         }
     }
 }
