@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\obj\Debug\Main Method.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\obj\Debug\Main Method.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\bin\Debug\Main Method.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\bin\Debug\Main Method.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\bin\Debug\Main Method.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\obj\Debug\Main Method.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Main Method\Main Method\obj\Debug\Main Method.pdb
