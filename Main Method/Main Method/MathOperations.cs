@@ -46,16 +46,16 @@ class MathOperations
         return result;
     }
 
-    //public int PerformMathOperation(string number, string operation)
-    //{
-    //    if (int.TryParse(number, out int parsedNumber))
-    //    {
-    //        return PerformMathOperation(parsedNumber, operation);
-    //    }
-    //    else
-    //    {
-    //        Console.WriteLine("Invalid input. Not a valid integer.");
-    //        return 0;
-    //    }
-    //}
+    public int PerformMathOperation(string number, string operation)
+    {
+        if (int.TryParse(number, out int parsedNumber))
+        {
+            return PerformMathOperation(parsedNumber, operation);
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Not a valid integer.");
+            return 0;
+        }
+    }
 }
