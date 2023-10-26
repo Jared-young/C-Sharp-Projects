@@ -19,9 +19,9 @@ namespace Calling_Methods_Assignment
                 int resultSubtract = math.Subtract(userNumber);
                 int resultMultiply = math.Multiply(userNumber);
 
-                Console.WriteLine($"Result of adding 10: {resultAdd}");
-                Console.WriteLine($"Result of subtracting 5: {resultSubtract}");
-                Console.WriteLine($"Result of multiplying by 2: {resultMultiply}");
+                Console.WriteLine($"Result of adding 2000: {resultAdd}");
+                Console.WriteLine($"Result of subtracting 50: {resultSubtract}");
+                Console.WriteLine($"Result of multiplying by 207: {resultMultiply}");
             }
             else
             {

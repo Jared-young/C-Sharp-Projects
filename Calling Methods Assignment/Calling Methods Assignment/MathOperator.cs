@@ -10,17 +10,17 @@ namespace Calling_Methods_Assignment
     {
         public int Add(int number)
         {
-            return number + 10;
+            return number + 2000;
         }
 
         public int Subtract(int number)
         {
-            return number - 5;
+            return number - 50;
         }
 
         public int Multiply(int number)
         {
-            return number * 2;
+            return number * 207;
         }
     }
 }
