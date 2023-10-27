@@ -15,23 +15,33 @@ namespace Method_Assignment_Step_219
             Console.Write("Enter the first number: ");
             int num1 = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter the second number (press Enter to not enter a second number. Default number will be 0): ");
+            Console.Write("Enter the second number (press Enter to not enter a second number.): ");
             string num2Input = Console.ReadLine();
 
             int num2;
             if (string.IsNullOrWhiteSpace(num2Input))
             {
-                num2 = 0; //Sets second number to 0
+                num2 = 0; //Sets second number to 0 if nothing is entered
+               
             }
             else
             {
                 num2 = int.Parse(num2Input);
+                
             }
-
-            int result = mathOperations.PerformMathOperation(num1, num2);
-
-            Console.WriteLine($"The result of the math operation is: {result}");
-            Console.ReadLine();
+            if (num2 == 0)
+            {
+                int result = mathOperations.PerformMathOperation(num1);
+                Console.WriteLine($"The result of the math operation is: {result}");
+                Console.ReadLine();
+            }
+            else
+            {
+                int result = mathOperations.PerformMathOperation(num1, num2);
+                Console.WriteLine($"The result of the math operation is: {result}");
+                Console.ReadLine();
+            }
+            
         }
     }
 }
