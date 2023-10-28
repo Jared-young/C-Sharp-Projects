@@ -1,2 +1,7 @@
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\obj\Debug\Method Class Assignment Step 220.csprojAssemblyReference.cache
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\obj\Debug\Method Class Assignment Step 220.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\bin\Debug\Method Class Assignment Step 220.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\bin\Debug\Method Class Assignment Step 220.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\bin\Debug\Method Class Assignment Step 220.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\obj\Debug\Method Class Assignment Step 220.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Method Class Assignment Step 220\Method Class Assignment Step 220\obj\Debug\Method Class Assignment Step 220.pdb

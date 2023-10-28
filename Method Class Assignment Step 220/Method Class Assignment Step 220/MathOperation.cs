@@ -8,19 +8,15 @@ namespace Method_Class_Assignment_Step_220
 {
     class MathOperation
     {
-        static void Main()
+        public void PerformMathOperation(int num1, int num2)
         {
-            int num1 = 25;
-            int num2 = 27;
+            
+            int result = num1 + 2;
 
-            MyVoid(num1, num2);
-        }
+            
+            Console.WriteLine($"Second integer: {num2}");
 
-        static void MyVoid(int a, int b)
-        {
-            int sum = a + b;
-            Console.WriteLine("The sum of {a} and {b} is: {sum}");
-            Console.ReadLine();
+            Console.WriteLine($"Result of the math operation on {num1}: {result}");
         }
     }
 }

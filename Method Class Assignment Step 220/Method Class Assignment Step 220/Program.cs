@@ -10,11 +10,16 @@ namespace Method_Class_Assignment_Step_220
     {
         static void Main(string[] args)
         {
-            MyVoid myVoid = new MyVoid();
+            MathOperation mathOperation = new MathOperation();
 
-            Sum(5, 7);
+            
+            mathOperation.PerformMathOperation(5, 7);
+            Console.WriteLine("Press enter to see next operation");
+            Console.ReadLine();
 
-            Sum(num1: 10, num2: 20);
+            mathOperation.PerformMathOperation(num1: 10, num2: 20);
+
+            Console.ReadLine();
         }
         
     }
