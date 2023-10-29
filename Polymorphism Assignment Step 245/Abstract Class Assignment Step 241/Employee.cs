@@ -13,9 +13,6 @@ namespace Abstract_Class_Assignment_Step_241
             FirstName = firstName;
             LastName = lastName;
         }
-
-
-
         public override void SayName()
         {
             string fullName = $"{FirstName} {LastName}";
