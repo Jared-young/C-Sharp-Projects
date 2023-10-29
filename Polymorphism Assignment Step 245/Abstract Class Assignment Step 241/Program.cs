@@ -12,6 +12,8 @@ namespace Abstract_Class_Assignment_Step_241
         {
             Employee employee = new Employee("Sample", "Student");
             employee.SayName();
+            IQuittable quittableEmployee = employee;
+            quittableEmployee.Quit();
             Console.ReadLine();
         }
         

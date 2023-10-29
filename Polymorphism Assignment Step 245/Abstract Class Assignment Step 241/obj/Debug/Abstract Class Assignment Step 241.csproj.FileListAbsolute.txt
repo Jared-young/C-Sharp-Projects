@@ -4,3 +4,10 @@ C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Abstract Class Assignment
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Abstract Class Assignment Step 241\Abstract Class Assignment Step 241\bin\Debug\Abstract Class Assignment Step 241.pdb
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Abstract Class Assignment Step 241\Abstract Class Assignment Step 241\obj\Debug\Abstract Class Assignment Step 241.exe
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Abstract Class Assignment Step 241\Abstract Class Assignment Step 241\obj\Debug\Abstract Class Assignment Step 241.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\bin\Debug\Abstract Class Assignment Step 241.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\bin\Debug\Abstract Class Assignment Step 241.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\bin\Debug\Abstract Class Assignment Step 241.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\obj\Debug\Abstract Class Assignment Step 241.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\obj\Debug\Abstract Class Assignment Step 241.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\obj\Debug\Abstract Class Assignment Step 241.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Polymorphism Assignment Step 245\Abstract Class Assignment Step 241\obj\Debug\Abstract Class Assignment Step 241.pdb

@@ -10,6 +10,16 @@ namespace Abstract_Class_Assignment_Step_241
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public abstract void SayName();
+
+        public Person(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+        }
+        public void SayName()
+        {
+            string fullName = $"{FirstName} {LastName}";
+            Console.WriteLine($"Name: {fullName}");
+        }
     }
 }

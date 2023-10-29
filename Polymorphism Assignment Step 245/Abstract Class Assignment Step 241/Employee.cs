@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class_Assignment_Step_241
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
-        public Employee(string firstName, string lastName)
+        public Employee(string firstName, string lastName) : base(firstName, lastName)
         {
-            FirstName = firstName;
-            LastName = lastName;
         }
-        public override void SayName()
+        public void Quit()
         {
-            string fullName = $"{FirstName} {LastName}";
-            Console.WriteLine($"Name: {fullName}");
+            Console.WriteLine($"Employee {FirstName} {LastName} is quitting their job.");
+            Console.ReadLine();
         }
     }
 }
