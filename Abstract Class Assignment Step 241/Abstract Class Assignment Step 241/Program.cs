@@ -11,7 +11,9 @@ namespace Abstract_Class_Assignment_Step_241
         static void Main()
         {
             Employee employee = new Employee("Sample", "Student");
-            employee.sayName();
+            employee.SayName();
+            Console.ReadLine();
         }
+        
     }
 }
