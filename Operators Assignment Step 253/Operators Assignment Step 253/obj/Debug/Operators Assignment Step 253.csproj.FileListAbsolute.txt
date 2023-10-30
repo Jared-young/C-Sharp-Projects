@@ -4,3 +4,4 @@ C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Operators Assignment Step
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Operators Assignment Step 253\Operators Assignment Step 253\obj\Debug\Operators Assignment Step 253.csproj.CoreCompileInputs.cache
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Operators Assignment Step 253\Operators Assignment Step 253\obj\Debug\Operators Assignment Step 253.exe
 C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Operators Assignment Step 253\Operators Assignment Step 253\obj\Debug\Operators Assignment Step 253.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Operators Assignment Step 253\Operators Assignment Step 253\obj\Debug\Operators Assignment Step 253.csprojAssemblyReference.cache
