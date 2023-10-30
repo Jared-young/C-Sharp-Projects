@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class_Submission_Step_224
 {
-    public class StaticMethod
+    public static class StaticMethod
     {
         public static void DivideByThree(int number, out int result2)
         {
