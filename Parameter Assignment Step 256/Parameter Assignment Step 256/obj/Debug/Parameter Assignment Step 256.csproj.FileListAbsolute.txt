@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\bin\Debug\Parameter Assignment Step 256.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\bin\Debug\Parameter Assignment Step 256.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\bin\Debug\Parameter Assignment Step 256.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\obj\Debug\Parameter Assignment Step 256.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\obj\Debug\Parameter Assignment Step 256.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\obj\Debug\Parameter Assignment Step 256.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Parameter Assignment Step 256\Parameter Assignment Step 256\obj\Debug\Parameter Assignment Step 256.pdb
