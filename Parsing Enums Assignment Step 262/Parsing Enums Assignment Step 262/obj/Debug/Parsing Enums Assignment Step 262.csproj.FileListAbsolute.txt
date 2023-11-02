@@ -1,0 +1,2 @@
+C:\Users\Jared.Young\source\repos\Parsing Enums Assignment Step 262\Parsing Enums Assignment Step 262\obj\Debug\Parsing Enums Assignment Step 262.csprojAssemblyReference.cache
+C:\Users\Jared.Young\source\repos\Parsing Enums Assignment Step 262\Parsing Enums Assignment Step 262\obj\Debug\Parsing Enums Assignment Step 262.csproj.CoreCompileInputs.cache
