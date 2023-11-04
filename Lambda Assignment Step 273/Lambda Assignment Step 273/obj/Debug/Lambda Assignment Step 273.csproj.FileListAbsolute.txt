@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\bin\Debug\Lambda Assignment Step 273.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\bin\Debug\Lambda Assignment Step 273.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\bin\Debug\Lambda Assignment Step 273.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\obj\Debug\Lambda Assignment Step 273.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\obj\Debug\Lambda Assignment Step 273.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\obj\Debug\Lambda Assignment Step 273.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\Lambda Assignment Step 273\Lambda Assignment Step 273\obj\Debug\Lambda Assignment Step 273.pdb
