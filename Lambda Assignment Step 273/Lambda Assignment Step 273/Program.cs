@@ -24,7 +24,7 @@ namespace Lambda_Assignment_Step_273
             new Employee { Id = 10, FirstName = "Alex", LastName = "Schaffer" }
         };
 
-            Console.WriteLine("Employees with the first name 'Joe' using a foreach loop:");
+            Console.WriteLine("List of Employees whose first name is 'Joe' using a foreach loop:");
             List<Employee> joesWithForeach = new List<Employee>();
             foreach (var employee in employees)
             {
@@ -38,7 +38,7 @@ namespace Lambda_Assignment_Step_273
                 Console.WriteLine($"Id: {joe.Id}, Name: {joe.FirstName} {joe.LastName}");
             }
 
-            Console.WriteLine("\nEmployees with the first name 'Joe' using a lambda expression:");
+            Console.WriteLine("\nList of Employees whose first name is 'Joe' using a lambda expression:");
             List<Employee> joesWithLambda = employees.Where(e => e.FirstName == "Joe").ToList();
             foreach (var joe in joesWithLambda)
             {
