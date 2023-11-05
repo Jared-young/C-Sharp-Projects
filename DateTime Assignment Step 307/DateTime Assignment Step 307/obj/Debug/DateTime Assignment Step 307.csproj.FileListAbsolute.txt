@@ -1,0 +1,7 @@
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\bin\Debug\DateTime Assignment Step 307.exe.config
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\bin\Debug\DateTime Assignment Step 307.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\bin\Debug\DateTime Assignment Step 307.pdb
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\obj\Debug\DateTime Assignment Step 307.csprojAssemblyReference.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\obj\Debug\DateTime Assignment Step 307.csproj.CoreCompileInputs.cache
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\obj\Debug\DateTime Assignment Step 307.exe
+C:\Users\Jared.Young\Documents\GitHub\C-Sharp-Projects\DateTime Assignment Step 307\DateTime Assignment Step 307\obj\Debug\DateTime Assignment Step 307.pdb
